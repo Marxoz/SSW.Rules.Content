@@ -39,10 +39,10 @@ Even the most seasoned analysts might occasionally overlook certain details in a
   1. Web application on Azure
   2. Capture user feedback
   3. User sign-up process
-     ...
-     :::
-     ::: bad Figure: Bad Example
-     Missing critical elements like security considerations, data migration paths, or integration with existing systems.
+     ...\
+     :::\
+     ::: bad Figure: Bad Example\
+     Missing critical elements like security considerations, data migration paths, or integration with existing systems.\
      :::
 * **Customization Over Templates:** 
   While templates offer consistency, they may not always cater to project-specific nuances. Every project is unique, and relying solely on templates can lead to gaps in the specification.
