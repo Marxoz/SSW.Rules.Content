@@ -31,9 +31,8 @@ Even the most seasoned analysts might occasionally overlook certain details in a
   :::
   ::: good Figure: Good Example
   AI adapts and evolves its questions based on ongoing answers, offering more tailored results.
-  :::
-
-  ::: greybox
+  :::\
+  ::: greybox\
   Prompt:
   Use these requirements to draft a specification review:
 
@@ -74,7 +73,6 @@ Even the most seasoned analysts might occasionally overlook certain details in a
 
   ![](mermaid.jpg)
 
-
   :::
   ::: good Figure: Good Example
   Visualizing complex system infrastructure using Mermaid for clarity.
@@ -83,11 +81,9 @@ Even the most seasoned analysts might occasionally overlook certain details in a
   Entrust your AI with an architecture blueprint. See it draft an initial specification review, ready for human refinement.\
   ::: greybox
 
-
   ![](chatgpt_azure.jpg)
 
-
-  :::
+  :::\
   ::: good Figure: Good Example
   Using AI to generate a specification review on existing architecture 
   :::
@@ -106,20 +102,16 @@ Ask me one question at a time, and then only ask the next after I have answered 
 
 At the end, give me the opportunity to give you more information if needed
 
-Upon completion, gather the information based on my answers and then:\
-\
+Upon completion, gather the information based on my answers and then:
+
 1. provide me the specification review.\
-Also include the current state of the solution.\
-Be sure to include detailed explanations of each section, adding why we recommend the approach and what the benefits are.\
-\
-2. Develop Product Backlog Items (PBIs) corresponding to the tasks required to fulfil the specifications.\
-\
+   Also include the current state of the solution.\
+   Be sure to include detailed explanations of each section, adding why we recommend the approach and what the benefits are.
+2. Develop Product Backlog Items (PBIs) corresponding to the tasks required to fulfil the specifications.
 3. Provide the Mermaid syntax to draft both the present and projected architectural flow diagrams.
-:::
-::: good Figure: Good Example
-A good prompt to get the conversation started
-:::
-
-
+   :::
+   ::: good Figure: Good Example
+   A good prompt to get the conversation started
+   :::
 
 In harnessing AI, it's pivotal to recognize its value as a tool. Its true strength emerges when combined with our expertise, elevating the final output to unmatched quality.
